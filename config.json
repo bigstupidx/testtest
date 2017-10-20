@@ -1,25 +1,29 @@
 {
-    "name": "BeJson",
-    "url": "http://www.bejson.com",
-    "page": 88,
-    "isNonProfit": true,
-    "address": {
-        "street": "科技园路.",
-        "city": "江苏苏州",
-        "country": "中国"
-    },
-    "links": [
+    "server_url": "www.baidu.com",
+    "app_list": [
         {
             "name": "Google",
-            "url": "http://www.google.com"
+            "image_url": "http://www.google.com",
+            "app_url": "http://www.google.com",
+            "package": "com.xxx.yyy",
+            "type": "1",
+            "status": "1"
         },
         {
-            "name": "Baidu",
-            "url": "http://www.baidu.com"
+            "name": "Google1",
+            "image_url": "http://www.google.com",
+            "app_url": "http://www.google.com",
+            "package": "com.xxx.yyy",
+            "type": "1",
+            "status": "1"
         },
         {
-            "name": "SoSo",
-            "url": "http://www.SoSo.com"
+            "name": "Google2",
+            "image_url": "http://www.google.com",
+            "app_url": "http://www.google.com",
+            "package": "com.xxx.yyy",
+            "type": "1",
+            "status": "1"
         }
     ]
 }
