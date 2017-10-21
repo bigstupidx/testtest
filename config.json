@@ -6,24 +6,24 @@
             "image_url": "http://www.google.com",
             "app_url": "http://www.google.com",
             "package": "com.xxx.yyy",
-            "type": "1",
-            "status": "1"
+            "type": 1,
+            "status": 1
         },
         {
             "name": "Google1",
             "image_url": "http://www.google.com",
             "app_url": "http://www.google.com",
             "package": "com.xxx.yyy",
-            "type": "1",
-            "status": "1"
+            "type": 1,
+            "status": 1
         },
         {
             "name": "Google2",
             "image_url": "http://www.google.com",
             "app_url": "http://www.google.com",
             "package": "com.xxx.yyy",
-            "type": "1",
-            "status": "1"
+            "type": 1,
+            "status": 1
         }
     ]
 }
